@@ -1,20 +1,3 @@
-推荐你通过在线阅读网站进行阅读，体验更好，速度更快！地址：[javaguide.cn](https://javaguide.cn/)。
-
-[<img src="https://oss.javaguide.cn/xingqiu/xingqiu.png" style="width:850px;margin: 0 auto" />](https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html)
-
-<div align="center">
-
-[![logo](https://oss.javaguide.cn/github/javaguide/csdn/1c00413c65d1995993bf2b0daf7b4f03.png)](https://github.com/Snailclimb/JavaGuide)
-
-[![阅读](https://img.shields.io/badge/阅读-read-brightgreen.svg)](https://javaguide.cn/)
-![Stars](https://img.shields.io/github/stars/Snailclimb/JavaGuide)
-![forks](https://img.shields.io/github/forks/Snailclimb/JavaGuide)
-![issues](https://img.shields.io/github/issues/Snailclimb/JavaGuide)
-
-[GitHub](https://github.com/Snailclimb/JavaGuide) | [Gitee](https://gitee.com/SnailClimb/JavaGuide)
-
-</div>
-
 > - **面试专版**：准备 Java 面试的小伙伴可以考虑面试专版：**[《Java 面试指北 》](./docs/zhuanlan/java-mian-shi-zhi-bei.md)** (质量很高，专为面试打造，配合 JavaGuide 食用)。
 > - **知识星球**：专属面试小册/一对一交流/简历修改/专属求职指南，欢迎加入 **[JavaGuide 知识星球](./about-the-author/zhishixingqiu-two-years.md)**（点击链接即可查看星球的详细介绍，一定确定自己真的需要再加入）。
 > - **使用建议** ：有水平的面试官都是顺着项目经历挖掘技术问题。一定不要死记硬背技术八股文！详细的学习建议请参考：[JavaGuide 使用建议](./javaguide/use-suggestion.md)。
