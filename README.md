@@ -4,14 +4,6 @@
 > - **求个Star**：如果觉得 JavaGuide 的内容对你有帮助的话，还请点个免费的 Star，这是对我最大的鼓励，感谢各位一起同行，共勉！Github 地址：[https://github.com/Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 。
 > - **转载须知**：以下所有文章如非文首说明为转载皆为 JavaGuide 原创，转载请在文首注明出处。如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
 
-<div align="center">
-  <img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" style="margin: 0 auto;" />  
-</div>
-
-<!-- #region home -->
-
-## 项目相关
-
 - [项目介绍](https://javaguide.cn/javaguide/intro.html)
 - [使用建议](https://javaguide.cn/javaguide/use-suggestion.html)
 - [贡献指南](https://javaguide.cn/javaguide/contribution-guideline.html)
